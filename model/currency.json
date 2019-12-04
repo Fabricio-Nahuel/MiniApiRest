@@ -1,0 +1,17 @@
+{
+    "ARS": {
+        "symbol": "AR$",
+        "name": "Peso Argentino",
+        "united": 1
+    },
+    "EUR": {
+        "symbol": "€",
+        "name": "Euro",
+        "united": 65
+    },
+    "USD": {
+        "symbol": "$",
+        "name": "Dólar",
+        "united": 60
+    }
+}
