@@ -25,6 +25,7 @@ Las consignas de esta aplicación Mini Api Rest son las siguientes:
 > La variable del dolar se setea a mano en algun archivo.
 
 
+
 **FRONT:**
 
 - Diseño Mobile First.
@@ -34,6 +35,7 @@ Las consignas de esta aplicación Mini Api Rest son las siguientes:
    - Posibilidad de **editar** los valores que van en la tabla y **guardar**.
 
 > Nota: Junto con el proyecto se adjunta el archivo **Productos.sql**, el mismo contiene el create de la base de datos, tabla productos e insert de registros.
+
 
 
 En la versión actual faltan las siguientes características:
